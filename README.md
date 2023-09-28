@@ -1,4 +1,4 @@
-# Nome do projeto
+# Curso de Python - Grupo de Estudos Webby
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/webbyinternet/CursoPython?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/webbyinternet/CursoPython?style=for-the-badge)
