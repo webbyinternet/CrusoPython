@@ -42,4 +42,14 @@ Colaboradores:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/CaioCLDias">
+        <img src="https://avatars.githubusercontent.com/u/23087077?v=4" width="100px;" alt="Foto do Caio"/><br>
+        <sub>
+          <b>Caio Dias</b>
+        </sub>
+      </a>
+    </td>
+
+ 
    
