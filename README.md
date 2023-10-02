@@ -50,6 +50,14 @@ Colaboradores:
         </sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://github.com/PedroGabrielS">
+        <img src="https://avatars.githubusercontent.com/u/105056917" width="100px;" alt="Foto do Pedrin"/><br>
+        <sub>
+          <b>Pedro Gabriel da Silva</b>
+        </sub>
+      </a>
+    </td>
 
  
    
